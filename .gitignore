@@ -143,6 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+*.sif
 
 # Spyder project settings
 .spyderproject
